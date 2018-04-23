@@ -1,4 +1,6 @@
-##These are the functions of the Week 4 Assignment of the R Programming from Coursera. They give the same results as the original version I wrote. This time, I modified some of the codes to make them easier to read.
+##These are the functions of the Week 4 Assignment of the R Programming from Coursera. 
+##They give the same results as the original version I wrote. 
+##This time, I modified some of the codes to make them easier to read.
 
 ##2. Finding the best hospital in a state
 
